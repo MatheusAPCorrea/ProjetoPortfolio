@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://freeimage.host/i/2B4AdKu)
+![image]([https://freeimage.host/i/2B4AdKu](https://ibb.co/2hFR670))
 
 ## Ferramentas utilizadas:
 
