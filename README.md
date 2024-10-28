@@ -1,6 +1,7 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image]([https://freeimage.host/i/2B4AdKu](https://ibb.co/2hFR670))
+![image](https://github.com/user-attachments/assets/927c929f-fd0e-4646-b02f-98bc7fe12335)
+
 
 ## Ferramentas utilizadas:
 
