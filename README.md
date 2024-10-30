@@ -1,4 +1,4 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio Olá, Bem vindo ao meu projeto de treinamento de FLEXBOX
 
 ![image](https://github.com/user-attachments/assets/29f1177b-98b4-46f9-beac-7f93b0bd9d09)
 
