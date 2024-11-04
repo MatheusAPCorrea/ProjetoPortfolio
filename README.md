@@ -1,7 +1,7 @@
 # Projeto de treinamento de LAYOUT RESPONSIVO
 
-![image](https://github.com/user-attachments/assets/f31455d3-8fa3-45b5-9ad2-850c3d3eb4d8)
 
+![image](https://github.com/user-attachments/assets/927c929f-fd0e-4646-b02f-98bc7fe12335)
 
 
 
