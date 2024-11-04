@@ -1,6 +1,7 @@
-# Portfólio Olá, Bem vindo ao meu projeto de treinamento de FLEXBOX
+# Projeto de treinamento de LAYOUT RESPONSIVO
 
-![image](https://github.com/user-attachments/assets/29f1177b-98b4-46f9-beac-7f93b0bd9d09)
+![image](https://github.com/user-attachments/assets/f31455d3-8fa3-45b5-9ad2-850c3d3eb4d8)
+
 
 
 
